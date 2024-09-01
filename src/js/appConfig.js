@@ -118,6 +118,6 @@ export const ENGINE_GRAPH_TYPES = {
 }
 
 export const app_settings = {
-  dual_screen: true,
+  dual_screen: false,
   engine_gragh_type: ENGINE_GRAPH_TYPES.AFR,
 }
